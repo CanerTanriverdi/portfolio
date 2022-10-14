@@ -62,13 +62,6 @@
   width: 400px;
 }
 
-.name {
-  display: flex;
-  align-self: center;
-  font-size: 80px;
-  justify-content: center;
-}
-
 .head {
   font-size: xx-large;
   align-self: start;
@@ -77,20 +70,6 @@
 .container {
   display: flex;
   flex-direction: row;
-}
-
-.button {
-  width: 100%;
-  margin: 20px;
-}
-
-.btn {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 15px;
-  color: #f1d8ce;
-  background-color: #910125;
-  padding: 10px;
-  margin-left: 20px;
 }
 
 .rightSide {
