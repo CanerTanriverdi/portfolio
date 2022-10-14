@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,600&display=swap');
-
 * {
   box-sizing: border-box;
   padding: 0;
@@ -53,13 +51,15 @@
   padding-left: 20px;
 }
 
-.job {
+.me {
   display: flex;
   color: #344a3b;
   font-family: 'Pacifico', cursive;
   font-size: large;
   align-self: start;
   justify-content: start;
+  font-size: 30px;
+  width: 400px;
 }
 
 .name {
